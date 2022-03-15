@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    background-color: rgb(49, 49, 49);
+    height: 20vh;
+}
+
+div {
+    background-color: white;
+    height: 200vh;
+    width: 70vw;
+}
+
+footer {
+    background-color: black;
+    width: 70vw;
+    height: 10vh;
+}
